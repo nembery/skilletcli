@@ -4,3 +4,9 @@ colorama
 jinja2
 passlib
 requests
+pytest
+google-cloud-firestore
+coverage
+coverage-badge
+pytest
+beautifultable
